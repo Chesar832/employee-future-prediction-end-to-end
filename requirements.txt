@@ -1,0 +1,13 @@
+apache-airflow==2.7.0
+apache-airflow-providers-google
+apache-airflow-providers-amazon
+mlflow==2.17.2
+pandas
+scikit-learn
+numpy
+joblib
+xgboost
+lightgbm
+boto3
+pyarrow
+psycopg2-binary
